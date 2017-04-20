@@ -1,0 +1,34 @@
+D:\Универ\5 курс\2 Семестр\Крячок\Лаба\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Универ\5 курс\2 Семестр\Крячок\Лаба\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Универ\5 курс\2 Семестр\Крячок\Лаба\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Универ\5 курс\2 Семестр\Крячок\Лаба\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Универ\5 курс\2 Семестр\Крячок\Лаба\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Универ\5 курс\2 Семестр\Крячок\Лаба\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Универ\5 курс\2 Семестр\Крячок\Лаба\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Универ\5 курс\2 Семестр\Крячок\Лаба\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Универ\5 курс\2 Семестр\Крячок\Лаба\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Documents\Институт\5 курс\2 семестр\Апаратно-програмні засоби збору та обробки екологічної інформації\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Documents\Институт\5 курс\2 семестр\Апаратно-програмні засоби збору та обробки екологічної інформації\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Documents\Институт\5 курс\2 семестр\Апаратно-програмні засоби збору та обробки екологічної інформації\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Documents\Институт\5 курс\2 семестр\Апаратно-програмні засоби збору та обробки екологічної інформації\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Documents\Институт\5 курс\2 семестр\Апаратно-програмні засоби збору та обробки екологічної інформації\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Documents\Институт\5 курс\2 семестр\Апаратно-програмні засоби збору та обробки екологічної інформації\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Documents\Институт\5 курс\2 семестр\Апаратно-програмні засоби збору та обробки екологічної інформації\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Documents\Институт\5 курс\2 семестр\Апаратно-програмні засоби збору та обробки екологічної інформації\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Documents\Институт\5 курс\2 семестр\Апаратно-програмні засоби збору та обробки екологічної інформації\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
+D:\Work\5kurs2sem\Lab\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe.config
+D:\Work\5kurs2sem\Lab\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.exe
+D:\Work\5kurs2sem\Lab\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.pdb
+D:\Work\5kurs2sem\Lab\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.exe
+D:\Work\5kurs2sem\Lab\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\WindowsFormsApplication1.pdb
+D:\Work\5kurs2sem\Lab\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\mscorlib.dll
+D:\Work\5kurs2sem\Lab\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\ru\mscorlib.resources.dll
+D:\Work\5kurs2sem\Lab\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normidna.nlp
+D:\Work\5kurs2sem\Lab\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfc.nlp
+D:\Work\5kurs2sem\Lab\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfd.nlp
+D:\Work\5kurs2sem\Lab\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfkc.nlp
+D:\Work\5kurs2sem\Lab\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\bin\Debug\normnfkd.nlp
+D:\Work\5kurs2sem\Lab\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csprojResolveAssemblyReference.cache
+D:\Work\5kurs2sem\Lab\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Form1.resources
+D:\Work\5kurs2sem\Lab\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.Properties.Resources.resources
+D:\Work\5kurs2sem\Lab\WindowsFormsApplication1\WindowsFormsApplication1\WindowsFormsApplication1\obj\Debug\WindowsFormsApplication1.csproj.GenerateResource.Cache
